@@ -31,7 +31,7 @@ As soon as the portlet has been successfully deployed on the Science Gateway the
 
 In the following figure is shown how the portlet has been configured to run simulation on the EUMEDGRID-Support e-Infrastructure.
 
-.. image:: images/ABINIT_settings.jpg
+.. image:: images/Clipboard01.jpg
    :align: center
 
 2.) To configure the application, the following settings have to be provided:
@@ -44,12 +44,11 @@ In the following figure is shown how the portlet has been configured to run simu
 
 **LONG**: The default longitude of the EMI-3 DPM Storage Element.
 
-.. _CHAIN-REDS: https://science-gateway.chain-project.eu/
 .. _gLibrary: https://glibrary.ct.infn.it/
 
 In the figure below is shown how the portlet has been configured to browse the **ESArep** digital repository.
 
-.. image:: images/ABINIT_settings2.jpg
+.. image:: images/Clipboard02.jpg
    :align: center
 
 ============
@@ -58,6 +57,8 @@ Usage
 The run abinit simulation the user has to click on the third accordion, 
 and upload the input files.
 
+.. image:: images/Clipboard03.jpg
+      :align: center
 
 ============
 Contributor(s)
