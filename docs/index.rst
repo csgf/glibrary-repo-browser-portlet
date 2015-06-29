@@ -3,8 +3,9 @@ GLIBRARY-REPO-BROWSER-PORTLET
 ***************************
 
 .. _gLibrary: https://glibrary.ct.infn.it/
+.. _INFN: http://www.ct.infn.it/
 
-This portlet allow to browse digital repositories using gLibrary_, the Digital Repository System developed by INFN.
+This portlet allow to browse digital repositories using gLibrary_, the Digital Repository System developed by INFN_.
 
 ============
 Installation
@@ -33,7 +34,7 @@ In the following figure is shown how the portlet has been configured to navigate
 
 2.) To configure the application, the following settings have to be provided:
 
-**Proxy**: The proxy used to contact gLibrary;
+**Proxy**: The proxy used to contact gLibrary_;
 
 **Repository**: The digital repository to browse;
 
@@ -58,8 +59,6 @@ Contributor(s)
 ============
 
 Please feel free to contact us any time if you have any questions or comments.
-
-.. _INFN: http://www.ct.infn.it/
 
 :Authors:
 
