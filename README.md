@@ -1,3 +1,7 @@
+[![Travis](http://img.shields.io/travis/csgf/glibrary-repo-browser-portlet/master.png)](https://travis-ci.org/csgf/glibrary-repo-browser-portlet)
+[![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
+[![License](https://img.shields.io/github/license/csgf/glibrary-repo-browser-portlet.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 # glibrary-repo-browser-portlet
 
 <h2>Requirements</h2>
