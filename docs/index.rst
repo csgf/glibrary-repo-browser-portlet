@@ -2,18 +2,15 @@
 GLIBRARY-REPO-BROWSER-PORTLET
 ***************************
 
-This portlet allow to browse digital repositories using gLibrary, the Digital Repository System developed by INFN.
+.. _gLibrary: https://glibrary.ct.infn.it/
+
+This portlet allow to browse digital repositories using gLibrary_, the Digital Repository System developed by INFN.
 
 ============
 Installation
 ============
-To install the abinitDM portlet the WAR file has to be deployed into the application server.
 
-As soon as the portlet has been successfully deployed on the Science Gateway the administrator has to configure:
-
-- the list of e-Infrastructures where the application can be executed;
-
-- some additional application settings.
+As soon as the portlet has been successfully deployed on the Science Gateway the administrator has to configure some settings:
 
 1.) To configure a generic e-Infrastructure, the following settings have to be provided:
 
@@ -29,7 +26,7 @@ As soon as the portlet has been successfully deployed on the Science Gateway the
 
 **Serial Number**: The MD5SUM of the robot certificate to be used for this e-Infrastructure;
 
-In the following figure is shown how the portlet has been configured to run simulation on the EUMEDGRID-Support e-Infrastructure.
+In the following figure is shown how the portlet has been configured to navigate EUMEDGrid-Support digital repositories.
 
 .. image:: images/Clipboard01.jpg
    :align: center
@@ -44,8 +41,6 @@ In the following figure is shown how the portlet has been configured to run simu
 
 **LONG**: The default longitude of the EMI-3 DPM Storage Element.
 
-.. _gLibrary: https://glibrary.ct.infn.it/
-
 In the figure below is shown how the portlet has been configured to browse the **ESArep** digital repository.
 
 .. image:: images/Clipboard02.jpg
@@ -54,8 +49,6 @@ In the figure below is shown how the portlet has been configured to browse the *
 ============
 Usage
 ============
-The run abinit simulation the user has to click on the third accordion, 
-and upload the input files.
 
 .. image:: images/Clipboard03.jpg
       :align: center
@@ -63,11 +56,13 @@ and upload the input files.
 ============
 Contributor(s)
 ============
+
 Please feel free to contact us any time if you have any questions or comments.
 
 .. _INFN: http://www.ct.infn.it/
 
 :Authors:
+
  Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
  Antonio CALANDUCCI - Italian National Institute of Nuclear Physics (INFN_),
