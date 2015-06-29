@@ -2,26 +2,7 @@
 GLIBRARY-REPO-BROWSER-PORTLET
 ***************************
 
-============
-About
-============
-
-.. image:: images/ABINIT_logo.png
-   :height: 100px
-   :align: left
-   :target: http://www.abinit.org/
--------------
-
-.. _ABINIT: http://www.abinit.org/
-.. _DFT: http://dft.sandia.gov/
-
-ABINIT_ is a package whose main program allows one to find the total energy, charge density and electronic structure of systems made of electrons and nuclei (molecules and periodic solids) within Density Functional Theory (DFT_), using pseudopotentials and a planewave or wavelet basis. 
-
-ABINIT_ also includes options to optimize the geometry according to the DFT_ forces and stresses, or to perform molecular dynamics simulations using these forces, or to generate dynamical matrices, Born effective charges, and dielectric tensors, based on Density-Functional Perturbation Theory, and many more properties. 
-
-Excited states can be computed within the Many-Body Perturbation Theory (the GW approximation and the Bethe-Salpeter equation), and Time-Dependent Density Functional Theory (for molecules). In addition to the main ABINIT_ code, different utility programs are provided. 
-
-ABINIT_ is a project that favours development and collaboration `(short presentation of the ABINIT project) <http://www.abinit.org/about/presentation.pdf>`_.
+This portlet allow to browse digital repositories using gLibrary, the Digital Repository System developed by INFN.
 
 ============
 Installation
@@ -74,7 +55,7 @@ In the figure below is shown how the portlet has been configured to browse the *
 ============
 Usage
 ============
-The run abinit simulation the user has to click on the third accordion, select the type of job to run (e.g. *'Sequential'* or *'Parallel'*)
+The run abinit simulation the user has to click on the third accordion, 
 and upload the input files.
 
 
@@ -86,7 +67,9 @@ Please feel free to contact us any time if you have any questions or comments.
 .. _INFN: http://www.ct.infn.it/
 
 :Authors:
- Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
- Mario TORRISI - University of Catania (DFA_),
+ Antonio CALANDUCCI - Italian National Institute of Nuclear Physics (INFN_),
+
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_)
 

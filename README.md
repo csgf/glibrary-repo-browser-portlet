@@ -7,7 +7,7 @@
 
 <h2>About the portlet</h2>
 <p align="justify">
-This portlet allow to browse digital repositories using the gLibrary the Digital Repository System developed by INFN. 
+This portlet allow to browse digital repositories using gLibrary, the Digital Repository System developed by INFN. 
 </p>
 
 <h2>Contribute</h2>
